@@ -22,12 +22,16 @@ NIM: 2609116024(Genap)
 
 <img width="424" height="179" alt="Screenshot 2026-09-12 152748" src="https://github.com/user-attachments/assets/4a5210e7-a3ab-4edf-b6da-85a49f6317e2" />
 
-Gambar diatas adalah Output dari input gambar 1.1
+Gambar diatas adalah Output dari input gambar 1
 
 2. 
 <img width="590" height="433" alt="Screenshot 2026-09-12 144034" src="https://github.com/user-attachments/assets/91d7a4c3-26b9-410c-92f2-ef05978ec64f" />
 
 ini adalah input dan output ubtuk fitur "view art", program memeriksa list artwork terlebih dahulu. Jika len() lebih dari nol, program akan menggunakan perulangan for lalu menampilkan isi dari list dari indeks awal sampai terakhir.
 
-1.3
+3. 
 <img width="530" height="341" alt="Screenshot 2026-09-12 134120" src="https://github.com/user-attachments/assets/caeef3f1-35de-4dfb-af56-58357aee6856" />
+
+ini adalah input dan output untuk fitur "add art", fitur ini bertugas untuk menambah data baru dengan meminta user untuk input judul, seniman dan tahun yang akan disimpan dalam kurung siku dan menggunakan fungsi .append untuk membuat list baru.
+
+4. 
