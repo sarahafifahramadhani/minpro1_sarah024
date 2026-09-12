@@ -35,3 +35,20 @@ ini adalah input dan output ubtuk fitur "view art", program memeriksa list artwo
 ini adalah input dan output untuk fitur "add art", fitur ini bertugas untuk menambah data baru dengan meminta user untuk input judul, seniman dan tahun yang akan disimpan dalam kurung siku dan menggunakan fungsi .append untuk membuat list baru.
 
 4. 
+<img width="645" height="287" alt="Screenshot 2026-09-12 155237" src="https://github.com/user-attachments/assets/19e09a63-d4c1-4439-8c4c-4b104233482b" />
+
+ini adalah input dari fitur "change art", fitur ini digunakan untuk memperbarui data dengan cara menimpa data awal dengan data baru yang diperbarui oleh user.
+
+<img width="335" height="377" alt="Screenshot 2026-09-12 155404" src="https://github.com/user-attachments/assets/7b7ebbca-4b8f-4410-b073-679c2d03441b" />
+
+ini adalah output dari gambar 4. terlihat point ke 3 yang berubah dari karya seni dari Frida Kahlo menjadi karya seni dari Berthe Morisot.
+
+5. 
+<img width="574" height="436" alt="Screenshot 2026-09-12 161445" src="https://github.com/user-attachments/assets/53d0a0ec-2640-4e16-8016-e8c68c201ccc" />
+
+ini adalah input dan output dari fitur "delete art", fitur ini digunakan untuk menghapus data karya seni dengan menggunakan fungsi artwork.pop.
+
+6. 
+<img width="362" height="431" alt="Screenshot 2026-09-12 161508" src="https://github.com/user-attachments/assets/5124529f-f90f-47fe-8d1a-dd9444147acf" />
+
+ini adalah input dan output dari fitur "exit", fitur ini akan menghentikan (While True) atau perulangan dengan fungsi 'break'.
