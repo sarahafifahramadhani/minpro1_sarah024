@@ -51,4 +51,4 @@ ini adalah input dan output dari fitur "delete art", fitur ini digunakan untuk m
 6. 
 <img width="362" height="431" alt="Screenshot 2026-09-12 161508" src="https://github.com/user-attachments/assets/5124529f-f90f-47fe-8d1a-dd9444147acf" />
 
-ini adalah input dan output dari fitur "exit", fitur ini akan menghentikan (While True) atau perulangan dengan fungsi 'break'.
+ini adalah input dan output dari fitur "exit", fitur ini akan menghentikan (While True) atau perulangan dengan fungsi 'break'. Jika user menginput nomor selain yang ada di menu maka program akan memberikan output "system error".
