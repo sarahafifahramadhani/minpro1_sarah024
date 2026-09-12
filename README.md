@@ -14,7 +14,7 @@ NIM: 2609116024(Genap)
 
 
 # INPUT dan OUTPUT
-1.1
+1. 
 <img width="575" height="301" alt="Screenshot 2026-09-12 143934" src="https://github.com/user-attachments/assets/410784ee-0548-4ac3-8b97-e2fe7c6a4f0f" />
 
 
@@ -24,11 +24,10 @@ NIM: 2609116024(Genap)
 
 Gambar diatas adalah Output dari input gambar 1.1
 
-1.2
-<img width="530" height="341" alt="Screenshot 2026-09-12 134120" src="https://github.com/user-attachments/assets/caeef3f1-35de-4dfb-af56-58357aee6856" />
+2. 
+<img width="590" height="433" alt="Screenshot 2026-09-12 144034" src="https://github.com/user-attachments/assets/91d7a4c3-26b9-410c-92f2-ef05978ec64f" />
 
 ini adalah input dan output ubtuk fitur "view art", program memeriksa list artwork terlebih dahulu. Jika len() lebih dari nol, program akan menggunakan perulangan for lalu menampilkan isi dari list dari indeks awal sampai terakhir.
 
 1.3
-<img width="590" height="433" alt="Screenshot 2026-09-12 144034" src="https://github.com/user-attachments/assets/91d7a4c3-26b9-410c-92f2-ef05978ec64f" />
-
+<img width="530" height="341" alt="Screenshot 2026-09-12 134120" src="https://github.com/user-attachments/assets/caeef3f1-35de-4dfb-af56-58357aee6856" />
